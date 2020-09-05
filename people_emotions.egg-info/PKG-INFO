@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: people-emotions
+Version: 0.1
+Summary: package containing 3 models for detecting people emotion in a picture
+Home-page: UNKNOWN
+Author: Ahmed Haj Yahmed
+Author-email: hajyahmedahmed@gmail.com
+License: UNKNOWN
+Description: package containing 3 models for detecting people emotion in a picture
+Keywords: Face detection,Emotion detection,Image classification,Image segmentation
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6.6
+Classifier: Topic :: image Processing :: emotion detection
